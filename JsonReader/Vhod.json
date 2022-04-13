@@ -1,0 +1,1184 @@
+{
+  "sporocila": [
+    {
+      "stevec": 0,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543239607849,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "organizacija športnih dogodkov"
+    },
+    {
+      "stevec": 1,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543239626616,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "Obvoznica lj-kr"
+    },
+    {
+      "stevec": 2,
+      "ideaID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "timestamp": 1543239654062,
+      "address": "::ffff:193.2.122.211",
+      "port": 51675,
+      "socketID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "kategorija": 0,
+      "sporocilo": "povečanje možnosti za zaposlitev študentov fov-a"
+    },
+    {
+      "stevec": 3,
+      "ideaID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "timestamp": 1543239674787,
+      "address": "::ffff:193.2.122.205",
+      "port": 55130,
+      "socketID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "kategorija": 0,
+      "sporocilo": "Z aktivnim vključevanjem mladih v velike projekte "
+    },
+    {
+      "stevec": 4,
+      "ideaID": "/#I4417SpCW5-kWlpsAAAt",
+      "timestamp": 1543239688104,
+      "address": "::ffff:193.2.122.204",
+      "port": 50418,
+      "socketID": "/#I4417SpCW5-kWlpsAAAt",
+      "kategorija": 0,
+      "sporocilo": "Več sredstev za izobraževanje starejših ter trajno brezposelnih. "
+    },
+    {
+      "stevec": 5,
+      "ideaID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "timestamp": 1543239735940,
+      "address": "::ffff:193.2.122.205",
+      "port": 55130,
+      "socketID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "kategorija": 0,
+      "sporocilo": "Vključevanje strokovnjakov iz podjetji pri pouku v osnovnih in srednjih šolah"
+    },
+    {
+      "stevec": 6,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543239772657,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "Več reklame za izobraževanje v Kranju"
+    },
+    {
+      "stevec": 7,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543239782465,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Inovacijske delavnice razvoja za mlade"
+    },
+    {
+      "stevec": 8,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543239797538,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "Povečanje krožnega križišča pri vpadnici v Kranj - iz enega pasu v vsaj dva"
+    },
+    {
+      "stevec": 9,
+      "ideaID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "timestamp": 1543239801664,
+      "address": "::ffff:193.2.122.203",
+      "port": 49802,
+      "socketID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "kategorija": 0,
+      "sporocilo": "Nove restavracije z študentskimi boni."
+    },
+    {
+      "stevec": 10,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543239805131,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "Unikatne smeri za izobraževanje ki so bolj ozko usmerjene "
+    },
+    {
+      "stevec": 11,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543239824728,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Obvoznica Kranj - Šenčur"
+    },
+    {
+      "stevec": 12,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543239842279,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "Več sodelovanja Kovačnica-Fakultete"
+    },
+    {
+      "stevec": 13,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543239849365,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Zmanjšanje števila občin"
+    },
+    {
+      "stevec": 14,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543239857492,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "Večja dosegljivost in večji trg stanovanj za mlade, mlade družine, itd..."
+    },
+    {
+      "stevec": 15,
+      "ideaID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "timestamp": 1543239868951,
+      "address": "::ffff:193.2.122.205",
+      "port": 55130,
+      "socketID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "kategorija": 0,
+      "sporocilo": "Učenje gradbeništva (popravil cest) od drugih držav da ni treba čakat 8 mescov da en mejhn most popravjo"
+    },
+    {
+      "stevec": 16,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543239877968,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Gorenjski vesoljni program"
+    },
+    {
+      "stevec": 17,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543239890076,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Centralizacija turizma Gorenjske"
+    },
+    {
+      "stevec": 18,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543239938763,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Razvojni/tehnološki centri posameznih področij"
+    },
+    {
+      "stevec": 19,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543239944683,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "Urejeno parkiranje pred izobraževalnimi ustanovami in centrom (trenutno ima FOV premalo parkirišče)"
+    },
+    {
+      "stevec": 20,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543239946142,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Razgledni stolp sredi Kranja kot turistična destinacija"
+    },
+    {
+      "stevec": 21,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543239970946,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "Trg dela za mlade narediti zanimiv..."
+    },
+    {
+      "stevec": 22,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543239975431,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "tlakovanje/betoniranje diagonalne poti na travniku pri fakulteti"
+    },
+    {
+      "stevec": 23,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240006609,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "povezovanje na projektih z drugimi regijami in državami"
+    },
+    {
+      "stevec": 24,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543240008605,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "V Kranju bi lahko posadili lipo sprave"
+    },
+    {
+      "stevec": 25,
+      "ideaID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "timestamp": 1543240012858,
+      "address": "::ffff:193.2.122.203",
+      "port": 49802,
+      "socketID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "kategorija": 0,
+      "sporocilo": "Ugodnosti za študente v fitnesih in drugih rekreativnih športnih organizacijah. To bi bilo dobro nadomestilo za pomanjkanje športne vzgoje na večini fakultet."
+    },
+    {
+      "stevec": 26,
+      "ideaID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "timestamp": 1543240023396,
+      "address": "::ffff:193.2.122.205",
+      "port": 55130,
+      "socketID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "kategorija": 0,
+      "sporocilo": "Oddajanje/uporaba številnih starih hiš na podeželju kot možnost mladim za začasno bivanje"
+    },
+    {
+      "stevec": 27,
+      "ideaID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "timestamp": 1543240023662,
+      "address": "::ffff:193.2.122.211",
+      "port": 51675,
+      "socketID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "kategorija": 0,
+      "sporocilo": "Drugi tir"
+    },
+    {
+      "stevec": 28,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543240026096,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "Vklučitev športnih aktivnosti za vse študente in dijake (imamo 2 dvorani)"
+    },
+    {
+      "stevec": 29,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543240044512,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Inovacijski startup projekti za mlade"
+    },
+    {
+      "stevec": 30,
+      "ideaID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "timestamp": 1543240071216,
+      "address": "::ffff:193.2.122.203",
+      "port": 49802,
+      "socketID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "kategorija": 0,
+      "sporocilo": "Poglobitev reke in izgradnja pristanišča."
+    },
+    {
+      "stevec": 31,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543240083762,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "Več sodelovanja dijakov/študentov pri projektih v podjetjih"
+    },
+    {
+      "stevec": 32,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543240088864,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "zmanšanje cene študentskega doma (trenutno ni blizu pone zasedenosti)"
+    },
+    {
+      "stevec": 33,
+      "ideaID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "timestamp": 1543240094954,
+      "address": "::ffff:193.2.122.205",
+      "port": 55130,
+      "socketID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "kategorija": 0,
+      "sporocilo": "Kreiranje identitet posameznih občin in njihovo uklučevanje v spletno družbo"
+    },
+    {
+      "stevec": 34,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543240104619,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "V mestnih središčih izoblikovali projekt Več hoje, več kisika."
+    },
+    {
+      "stevec": 35,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543240124960,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "obvezna praksa tudi za študente UNI smeri"
+    },
+    {
+      "stevec": 36,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543240127434,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "Štipendiranje - hkrati neka varnost zaposlitve"
+    },
+    {
+      "stevec": 37,
+      "ideaID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "timestamp": 1543240129945,
+      "address": "::ffff:193.2.122.205",
+      "port": 55130,
+      "socketID": "/#9oQGqXmhlkcn6cNfAAAv",
+      "kategorija": 0,
+      "sporocilo": "Vodenje občin ne kot organizacijo temveč kot podjetje"
+    },
+    {
+      "stevec": 38,
+      "ideaID": "/#3VVIC75e0sVA76YiAAAj",
+      "timestamp": 1543240165758,
+      "address": "::ffff:193.2.122.207",
+      "port": 51136,
+      "socketID": "/#3VVIC75e0sVA76YiAAAj",
+      "kategorija": 0,
+      "sporocilo": "Izobraževanje mladih na finančni ravni kako izstopiti iz cone udobja"
+    },
+    {
+      "stevec": 39,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543240174204,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Regijski (enotno) center za pomoč socialno ogroženim (družinam in posameznikom)"
+    },
+    {
+      "stevec": 40,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240179207,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "Vključevanje starejše populacije v medgeneracijske projekte"
+    },
+    {
+      "stevec": 41,
+      "ideaID": "/#RyaRR2CJ9vzslt7LAAAq",
+      "timestamp": 1543240192313,
+      "address": "::ffff:193.2.122.216",
+      "port": 50294,
+      "socketID": "/#RyaRR2CJ9vzslt7LAAAq",
+      "kategorija": 0,
+      "sporocilo": "Občine brez avtomobilov (javni prevoz, kolo..)"
+    },
+    {
+      "stevec": 42,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543240201328,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "Prazne prostore po mestih, nameniti novim podjetnikom"
+    },
+    {
+      "stevec": 43,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543240213075,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Prenova/oživitev ali zrušitev opuščenih industrijskih objektov"
+    },
+    {
+      "stevec": 44,
+      "ideaID": "/#I4417SpCW5-kWlpsAAAt",
+      "timestamp": 1543240252536,
+      "address": "::ffff:193.2.122.204",
+      "port": 50418,
+      "socketID": "/#I4417SpCW5-kWlpsAAAt",
+      "kategorija": 0,
+      "sporocilo": "Obnova propadajočih stanovanjskih objektov v Kranjskem mestnem jedru"
+    },
+    {
+      "stevec": 45,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543240256835,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Vodnjak čokolade v Radovljici"
+    },
+    {
+      "stevec": 46,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543240260513,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Podjetniški medgeneracijski brainstorming projekti in delavnice"
+    },
+    {
+      "stevec": 47,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240279453,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "oživitev starega mestnega jedra, privabitev podjetnikov v center mesta"
+    },
+    {
+      "stevec": 48,
+      "ideaID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "timestamp": 1543240285311,
+      "address": "::ffff:193.2.122.211",
+      "port": 51675,
+      "socketID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "kategorija": 0,
+      "sporocilo": "Večji razpis štipendij za smeri s fov"
+    },
+    {
+      "stevec": 49,
+      "ideaID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "timestamp": 1543240304242,
+      "address": "::ffff:193.2.122.203",
+      "port": 49802,
+      "socketID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "kategorija": 0,
+      "sporocilo": "Fontana piva v centru Kranja!!!"
+    },
+    {
+      "stevec": 50,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543240315063,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Na Bledu kakšen hotel poimenovati Kremšnita."
+    },
+    {
+      "stevec": 51,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543240350181,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Most do blejskega otoka"
+    },
+    {
+      "stevec": 52,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240370723,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "Več štipendij za poklice poklicnih programov šol."
+    },
+    {
+      "stevec": 53,
+      "ideaID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "timestamp": 1543240389131,
+      "address": "::ffff:193.2.122.211",
+      "port": 51675,
+      "socketID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "kategorija": 0,
+      "sporocilo": "Podzemna železnica do Bovca"
+    },
+    {
+      "stevec": 54,
+      "ideaID": "/#RyaRR2CJ9vzslt7LAAAq",
+      "timestamp": 1543240400174,
+      "address": "::ffff:193.2.122.216",
+      "port": 50294,
+      "socketID": "/#RyaRR2CJ9vzslt7LAAAq",
+      "kategorija": 0,
+      "sporocilo": "Zipline Prisojnik-Jezero Jasna"
+    },
+    {
+      "stevec": 55,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543240408049,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "velik parking blizu bleda, okoli jezera pa samo avtobusi"
+    },
+    {
+      "stevec": 56,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543240409526,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Zip line z Blejskega gradu, Šmarjetne gore in podobnih gričev."
+    },
+    {
+      "stevec": 57,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240420538,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "kolesarski turizem na gorenjskem..."
+    },
+    {
+      "stevec": 58,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543240440946,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "Več kulturnih dogodkov"
+    },
+    {
+      "stevec": 59,
+      "ideaID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "timestamp": 1543240476438,
+      "address": "::ffff:193.2.122.203",
+      "port": 49802,
+      "socketID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "kategorija": 0,
+      "sporocilo": "Izgradnja bolnice v Kranju, da se nebi bilo vsem prebivalcem Kranja vedno voziti v Lj ali Jesenice za katerikoli večji poseg. "
+    },
+    {
+      "stevec": 60,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240522656,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "dom ostarelih"
+    },
+    {
+      "stevec": 61,
+      "ideaID": "/#I4417SpCW5-kWlpsAAAt",
+      "timestamp": 1543240566720,
+      "address": "::ffff:193.2.122.204",
+      "port": 50418,
+      "socketID": "/#I4417SpCW5-kWlpsAAAt",
+      "kategorija": 0,
+      "sporocilo": "Popolna digitalizacija kartotek in izvidov pacientov; zdravstveni informacijski sistem"
+    },
+    {
+      "stevec": 62,
+      "ideaID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "timestamp": 1543240567284,
+      "address": "::ffff:193.2.122.203",
+      "port": 49802,
+      "socketID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "kategorija": 0,
+      "sporocilo": "Organizacija pogrebnega društva Kranj. "
+    },
+    {
+      "stevec": 63,
+      "ideaID": "/#I4417SpCW5-kWlpsAAAt",
+      "timestamp": 1543240597983,
+      "address": "::ffff:193.2.122.204",
+      "port": 50418,
+      "socketID": "/#I4417SpCW5-kWlpsAAAt",
+      "kategorija": 0,
+      "sporocilo": "Gradnja Hospica (negovalnih domov) na Gorenjskem"
+    },
+    {
+      "stevec": 64,
+      "ideaID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "timestamp": 1543240613922,
+      "address": "::ffff:193.2.122.203",
+      "port": 49802,
+      "socketID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "kategorija": 0,
+      "sporocilo": "Migrante v študentski dom!!!!!"
+    },
+    {
+      "stevec": 65,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543240625103,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Še večje spodbujanje (subvencije) k ekološkemu kmetijstvu"
+    },
+    {
+      "stevec": 66,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240639381,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "Ureditev avtobusne in železniške postaje"
+    },
+    {
+      "stevec": 67,
+      "ideaID": "/#I4417SpCW5-kWlpsAAAt",
+      "timestamp": 1543240645437,
+      "address": "::ffff:193.2.122.204",
+      "port": 50418,
+      "socketID": "/#I4417SpCW5-kWlpsAAAt",
+      "kategorija": 0,
+      "sporocilo": "Kakovostni jezikovni tečaji in tečaji asimiliranja za tujce"
+    },
+    {
+      "stevec": 68,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543240647380,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "Poudarjanje naravnih lepot"
+    },
+    {
+      "stevec": 69,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543240663724,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Tečaj rudarstva"
+    },
+    {
+      "stevec": 70,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543240664291,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Povezava infrastrukture (železniška postaja, avtobusna postaja, mestni in primestni promet)"
+    },
+    {
+      "stevec": 71,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543240677904,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Sončne elektrarne sredi polja."
+    },
+    {
+      "stevec": 72,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240687205,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "Storitve javnega zdravstva nuditi še v večje obsegu"
+    },
+    {
+      "stevec": 73,
+      "ideaID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "timestamp": 1543240703255,
+      "address": "::ffff:193.2.122.203",
+      "port": 49802,
+      "socketID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "kategorija": 0,
+      "sporocilo": "Obnova železnic za razbremenitev cest."
+    },
+    {
+      "stevec": 74,
+      "ideaID": "/#9fzKpDZp23h3U-3RAAAk",
+      "timestamp": 1543240708393,
+      "address": "::ffff:193.2.122.238",
+      "port": 50904,
+      "socketID": "/#9fzKpDZp23h3U-3RAAAk",
+      "kategorija": 0,
+      "sporocilo": "omejitev v bitnjah na 70km/h"
+    },
+    {
+      "stevec": 75,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543240714114,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "Reorganizacija javnih ustanov"
+    },
+    {
+      "stevec": 76,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543240726300,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Večja skrb za okolje in naravo"
+    },
+    {
+      "stevec": 77,
+      "ideaID": "/#AyKMlW5EAx7Yk2n-AAAi",
+      "timestamp": 1543240740095,
+      "address": "::ffff:193.2.122.130",
+      "port": 51295,
+      "socketID": "/#AyKMlW5EAx7Yk2n-AAAi",
+      "kategorija": 0,
+      "sporocilo": "poenotiti zdravstvene informacijske sisteme"
+    },
+    {
+      "stevec": 78,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240741764,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "uresničiti predvolilne obljube"
+    },
+    {
+      "stevec": 79,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543240761716,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "bolj pogosta avtobusna povezava kr-kamnik (vsaj na 40 min)"
+    },
+    {
+      "stevec": 80,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240781155,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "ureditev problematike s smetmi, zbirni centri za ravnanje z odpadki"
+    },
+    {
+      "stevec": 81,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543240786032,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Nova avtobusna postaja v Kranju"
+    },
+    {
+      "stevec": 82,
+      "ideaID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "timestamp": 1543240795685,
+      "address": "::ffff:193.2.122.203",
+      "port": 49802,
+      "socketID": "/#oKWNN-QtpJ4iAfHVAAAp",
+      "kategorija": 0,
+      "sporocilo": "Pejte na drugi krog volitev v KR!!!!"
+    },
+    {
+      "stevec": 83,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543240841990,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Več za Kranj, manj za svoj lasten proračun."
+    },
+    {
+      "stevec": 84,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240853746,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "dodatne ugodnosti za mlade družine subvencioniranje vrtcev..."
+    },
+    {
+      "stevec": 85,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543240863686,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Zaposlenim omogočiti nekaj ur mesečno za zdravstvene potrebe (lastne, ožji družinski člani)."
+    },
+    {
+      "stevec": 86,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543240866126,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Slovence za zupane."
+    },
+    {
+      "stevec": 87,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543240875488,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "3. pas na avtocesti"
+    },
+    {
+      "stevec": 88,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543240900231,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Osamosvojitev gorenjske regije"
+    },
+    {
+      "stevec": 89,
+      "ideaID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "timestamp": 1543240903402,
+      "address": "::ffff:193.2.122.211",
+      "port": 51675,
+      "socketID": "/#yvt2Yq2f2l9Ml7XAAAAs",
+      "kategorija": 0,
+      "sporocilo": "Postavitev jedrske elektrarne na kranjskem polju"
+    },
+    {
+      "stevec": 90,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240925258,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "vključevanje zaposlenih v programe promocije zdravja"
+    },
+    {
+      "stevec": 91,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543240979694,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "Subvencionirana stanovanja za mlade družine do dobe 5 let"
+    },
+    {
+      "stevec": 92,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543240985003,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "izgradnja vrtcev"
+    },
+    {
+      "stevec": 93,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543240985997,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Obvoznica Kranj - Škofja Loka"
+    },
+    {
+      "stevec": 94,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543241000330,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "izgradnja športno rekracijskih parkov"
+    },
+    {
+      "stevec": 95,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543241010884,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Inovacijska tekmovanja mladih."
+    },
+    {
+      "stevec": 96,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543241046408,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Izgradnja vlakca smrti na Krvavcu"
+    },
+    {
+      "stevec": 97,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543241054373,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Pitnike za vodo sredi Kranja"
+    },
+    {
+      "stevec": 98,
+      "ideaID": "/#9fzKpDZp23h3U-3RAAAk",
+      "timestamp": 1543241064077,
+      "address": "::ffff:193.2.122.238",
+      "port": 50904,
+      "socketID": "/#9fzKpDZp23h3U-3RAAAk",
+      "kategorija": 0,
+      "sporocilo": "univerzalni temeljni dohodek"
+    },
+    {
+      "stevec": 99,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543241070545,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "vključevanje otrok in mladih v popoldanske dopolnilne dejavnosti - klubi, društva, itd..."
+    },
+    {
+      "stevec": 100,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543241107691,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Cenejše smučarske karte za prebivalce krajev v katerih se nahajajo smučišča"
+    },
+    {
+      "stevec": 101,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543241136253,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "Omejitev časa pridobivanja socialne podpore (ljudje so raje doma saj je socialna podpora previsoka v primerjavi z minimalno placo)"
+    },
+    {
+      "stevec": 102,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543241138373,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Večje število javnih toalet"
+    },
+    {
+      "stevec": 103,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543241138881,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Družini prijazna podjetja z internimi vrtci ali organiziranim varstvom za otroke zaposlenih."
+    },
+    {
+      "stevec": 104,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543241142800,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "več sredstev za eko projekte"
+    },
+    {
+      "stevec": 105,
+      "ideaID": "/#g_ndqMr-bmJob9XnAAAm",
+      "timestamp": 1543241153931,
+      "address": "::ffff:193.2.122.235",
+      "port": 50054,
+      "socketID": "/#g_ndqMr-bmJob9XnAAAm",
+      "kategorija": 0,
+      "sporocilo": "Študentom omogočili zaposlitev"
+    },
+    {
+      "stevec": 106,
+      "ideaID": "/#RyaRR2CJ9vzslt7LAAAq",
+      "timestamp": 1543241174096,
+      "address": "::ffff:193.2.122.216",
+      "port": 50294,
+      "socketID": "/#RyaRR2CJ9vzslt7LAAAq",
+      "kategorija": 0,
+      "sporocilo": "ukinitev finančne podpore ljudem, ki se lahko zaposlijo vendar se nočejo"
+    },
+    {
+      "stevec": 107,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543241202488,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "uvesti trgovine z nič oz malo embalaže "
+    },
+    {
+      "stevec": 108,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543241233881,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Organizacija varstva otrok v počitniškem času (delavnice, izleti, tabori,..)"
+    },
+    {
+      "stevec": 109,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543241263490,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Uvedba davka na dohodke povezane s politiko"
+    },
+    {
+      "stevec": 110,
+      "ideaID": "/#9fzKpDZp23h3U-3RAAAk",
+      "timestamp": 1543241281675,
+      "address": "::ffff:193.2.122.238",
+      "port": 50904,
+      "socketID": "/#9fzKpDZp23h3U-3RAAAk",
+      "kategorija": 0,
+      "sporocilo": "obdavčitev cerkve"
+    },
+    {
+      "stevec": 111,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543241290134,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "zmanjšati davčno osnovo"
+    },
+    {
+      "stevec": 112,
+      "ideaID": "/#5iBEQYWKUobwSZL_AAAw",
+      "timestamp": 1543241345733,
+      "address": "::ffff:194.249.21.206",
+      "port": 51584,
+      "socketID": "/#5iBEQYWKUobwSZL_AAAw",
+      "kategorija": 0,
+      "sporocilo": "Več prireditev Kino na prostem"
+    },
+    {
+      "stevec": 113,
+      "ideaID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "timestamp": 1543241363603,
+      "address": "::ffff:193.2.122.210",
+      "port": 55369,
+      "socketID": "/#_o_3rGGmzA2DCDxMAAAn",
+      "kategorija": 0,
+      "sporocilo": "Pomoč ostarelim na domu."
+    },
+    {
+      "stevec": 114,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543241369382,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "Blizu je Ljubljana, vendar nujno ureditev prometnih povezav"
+    },
+    {
+      "stevec": 115,
+      "ideaID": "/#31V_L1Aej-vISJV_AAAx",
+      "timestamp": 1543241402544,
+      "address": "::ffff:194.249.21.116",
+      "port": 38072,
+      "socketID": "/#31V_L1Aej-vISJV_AAAx",
+      "kategorija": 0,
+      "sporocilo": "Kolesarska pot LJ-Kr"
+    },
+    {
+      "stevec": 116,
+      "ideaID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "timestamp": 1543241409621,
+      "address": "::ffff:193.2.122.208",
+      "port": 53600,
+      "socketID": "/#3R7JXNotS3Ds6rfWAAAr",
+      "kategorija": 0,
+      "sporocilo": "Več turističnih kapacitet - turizem"
+    },
+    {
+      "stevec": 117,
+      "ideaID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "timestamp": 1543241423833,
+      "address": "::ffff:193.2.122.214",
+      "port": 49866,
+      "socketID": "/#SQ8v5ZWO82ZtGBeAAAAo",
+      "kategorija": 0,
+      "sporocilo": "Več družbenih kotičkov za starejše občane "
+    }
+  ]
+}
