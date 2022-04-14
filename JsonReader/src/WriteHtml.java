@@ -5,19 +5,17 @@ public class WriteHtml {
 
     String potDoDatoteke;
 
-   public WriteHtml(String pot) {
+    public WriteHtml(String pot) {
         this.potDoDatoteke = pot;
 
         try {
             FileOutputStream fileOutputStream = new FileOutputStream(this.potDoDatoteke);
-            Writer Buffer = new BufferedWriter(new OutputStreamWriter(fileOutputStream,"UTF-8"));
+            Writer Buffer = new BufferedWriter(new OutputStreamWriter(fileOutputStream, "UTF-8"));
             Buffer.write("");
 
             Buffer.flush();
             Buffer.close();
-        }
-
-        catch (Exception e) {
+        } catch (Exception e) {
             System.out.println("Napaka -> " + e.getMessage());
         }
 
@@ -36,31 +34,19 @@ public class WriteHtml {
                 "<title>" + naslov + "</title>" + "\r\n" +
                 "<link rel='/style.css'>" + "\r\n" +
                 "</head>" + "\r\n" +
-                "<body>" + "\r\n"+
+                "<body>" + "\r\n" +
                 "<table border='1' id='JsonRead'>" + "\r\n";
         writeHTML(text);
 
     }
 
-    public void TableRowStart() {
-        String text = "<tr>" + "\r\n";
-        writeHTML(text);
-
-    }
-
-    public void TableRow(Timestamp number) {
-        String text = "<tr><td;>" + number + "</td></tr>" + "\r\n";
-        writeHTML(text);
-    }
-
-
-    public void EndTableRow() {
-        String text = "</tr>\r\n";
+    public void TableRow(Timestamp Date, String address, String message) {
+        String text = "<tr><td>" + Date + "</td>" +"<td>" + address + "</td>"+"<td>" + message + "</td></tr>"+ "\r\n";
         writeHTML(text);
     }
 
     public void HtmlEnd() {
-        String text = "</table>\r\n"+"</body>\r\n</html>";
+        String text = "</table>\r\n" + "</body>\r\n</html>";
         writeHTML(text);
     }
 
